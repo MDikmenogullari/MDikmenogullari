@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDikmenogullari
 - 👀 I’m interested in Virology
 - 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Molecular Dynamics Simulation
 - 📫 How to reach me :mert.dikmenogullari@ibg.edu.tr/dikmenogullari77@gmail.com
 
 <!---
